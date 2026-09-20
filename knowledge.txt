@@ -1,0 +1,37 @@
+AI Agent
+An AI agent is a software system that can take an input, reason about it, and choose an action or response. It may use tools, memory, and external data sources.
+
+RAG
+RAG stands for Retrieval-Augmented Generation. Instead of relying only on the model's training memory, the system retrieves relevant information from a knowledge base and includes it in the prompt before generating the answer.
+
+Vector Database
+A vector database stores embeddings, which are numerical representations of text or images. Similar content has similar vectors, so semantic search can find relevant documents even when the exact words do not match.
+
+Prompt
+A prompt is the instruction or question sent to the language model. It tells the model what kind of answer is needed.
+
+Retrieval
+Retrieval is the process of selecting relevant documents from a database or knowledge source based on similarity. In RAG, this step happens before the model generates a response.
+
+Embedding Model
+An embedding model converts text into vectors that capture meaning. These vectors can be compared mathematically to find similar content.
+
+Ollama
+Ollama is a tool for running large language models locally on your machine. It lets developers test and run open-source models without depending on external cloud APIs.
+
+LLM
+A large language model is a neural network trained on massive text corpora. It can generate text and answer questions based on patterns in language.
+
+Agent Loop
+An agent loop often includes perception, reasoning, tool use, and action. The agent reads input, decides what to do, and produces a result.
+
+Memory
+Memory allows an agent to remember previous interactions or saved facts. This can be short-term conversation memory or long-term retrieval from a knowledge base.
+
+Harshita
+She is my wife
+
+9099 + 9098 = 18,197
+
+Kaashvi
+Kaashvi is my princess daughter.

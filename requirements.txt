@@ -1,0 +1,5 @@
+sentence-transformers>=2.7.0
+faiss-cpu>=1.8.0
+numpy>=1.26.0
+requests>=2.32.0
+langgraph>=0.2.0
