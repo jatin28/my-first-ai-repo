@@ -28,10 +28,4 @@ An agent loop often includes perception, reasoning, tool use, and action. The ag
 Memory
 Memory allows an agent to remember previous interactions or saved facts. This can be short-term conversation memory or long-term retrieval from a knowledge base.
 
-Harshita
-She is my wife
-
 9099 + 9098 = 18,197
-
-Kaashvi
-Kaashvi is my princess daughter.
