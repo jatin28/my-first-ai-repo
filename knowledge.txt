@@ -29,3 +29,6 @@ Memory
 Memory allows an agent to remember previous interactions or saved facts. This can be short-term conversation memory or long-term retrieval from a knowledge base.
 
 9099 + 9098 = 18,197
+
+Mlops
+For Deployment and CI/CD we are using Render and github actions
